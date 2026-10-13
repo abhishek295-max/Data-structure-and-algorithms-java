@@ -1,4 +1,3 @@
-﻿# Data-structure-and-algorithms-java
 # DSA, Design Patterns & Low-Level Design in Java
 
 A structured, self-paced learning route for becoming job-ready in **data structures and algorithms**, **design patterns**, and **Low-Level Design (LLD)**, using Java.
