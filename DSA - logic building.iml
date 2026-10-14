@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Searching/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Two Pointer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sorting/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
