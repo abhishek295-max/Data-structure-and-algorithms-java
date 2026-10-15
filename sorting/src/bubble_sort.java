@@ -1,15 +1,15 @@
-// Bubble Sort in Java
+
 public class bubble_sort {
     public static void bubbleSort(int[] arr) {
         int n = arr.length;
 
-        // Outer loop for passes
+
         for (int i = 0; i < n - 1; i++) {
-            // Inner loop for comparisons
+
             for (int j = 0; j < n - i - 1; j++) {
-                // Swap if current element is greater than next
+
                 if (arr[j] > arr[j + 1]) {
-                    // Traditional swap using temp variable
+
                     int temp = arr[j];
                     arr[j] = arr[j+1];
                     arr[j+1] = temp;
@@ -29,7 +29,7 @@ public class bubble_sort {
         printArray(unsortedArray);
     }
 
-    // Helper method to print array
+
     private static void printArray(int[] arr) {
         for (int num : arr) {
             System.out.print(num + " ");
